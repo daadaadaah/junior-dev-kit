@@ -2,6 +2,8 @@
 
 - 주니어 개발자를 위한 개발 키트로 코딩테스트와 TIL 작성을 손쉽게 도와주는 VSCode Extension
 
+![junior-dev-kit](https://user-images.githubusercontent.com/60481383/105970660-f67e4f80-60cc-11eb-8076-b68e4453f4f5.gif)
+
 ## Features
 
 1. 코딩테스트 연습을 할 수 있습니다.
@@ -51,6 +53,10 @@
 ```
 
 ## Release Notes
+
+### 0.0.6
+
+- Update README.md
 
 ### 0.0.5
 
