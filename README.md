@@ -28,11 +28,9 @@
 - MacOS: `Cmd + Ctrl +l`
 - Window: `Ctrl + Window + l`
 
-## Tutorial
-
-> [Junior-dev-kit Tutorial Notion](https://www.notion.so/junior-dev-kit-Tutorial-2903b9d0c767481f8f5920a7e27e196f)
-
 ## Extension Settings
+
+> [Extension Settings 설정 방법](https://www.notion.so/junior-dev-kit-Tutorial-2903b9d0c767481f8f5920a7e27e196f)
 
 - `junior-dev-kit.codingdojoTargetPath`: 코딩테스트 결과 저장하는 폴더 경로
 - `junior-dev-kit.tilTargetPath`: TIL 저장하는 폴더 경로
