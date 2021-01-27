@@ -7,6 +7,9 @@
 ## Features
 
 1. 코딩테스트 연습을 할 수 있습니다.
+
+   > 코딩테스트 문제 출처 : [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+
 2. TIL 작성을 편리하게 할 수 있습니다.
 
 ### [방법 1] 명령어로 이용하기
@@ -30,8 +33,6 @@
 
 ## Extension Settings
 
-> [Extension Settings 설정 방법](https://www.notion.so/junior-dev-kit-Tutorial-2903b9d0c767481f8f5920a7e27e196f)
-
 - `junior-dev-kit.codingdojoTargetPath`: 코딩테스트 결과 저장하는 폴더 경로
 - `junior-dev-kit.tilTargetPath`: TIL 저장하는 폴더 경로
 
@@ -43,7 +44,9 @@
 }
 ```
 
-> 경로 입력하실 때, 반드시 맨 뒤에 '/' 없이 입력해주세요~
+> [Extension Settings 설정 방법](https://www.notion.so/junior-dev-kit-Tutorial-2903b9d0c767481f8f5920a7e27e196f)
+
+- 경로 입력하실 때, 반드시 맨 뒤에 '/' 없이 입력해주세요~
 
 ```js
 - 올바른 예) /User/daadaadaah/daily-coding
@@ -51,6 +54,11 @@
 ```
 
 ## Release Notes
+
+### 0.0.7
+
+- Add Coding Test Quiz's Reference
+- Add How to set up Extension settings
 
 ### 0.0.6
 
