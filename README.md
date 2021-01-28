@@ -25,11 +25,13 @@
 
 - MacOS: `Cmd + Shift + j`
 - Window: `Ctrl + Shift + j`
+- Linux: `Ctrl + Shift + j`
 
 #### (2) TIL 작성하기
 
 - MacOS: `Cmd + Ctrl +l`
 - Window: `Ctrl + Window + l`
+- Linux: `Ctrl + Shift + j`
 
 ## Extension Settings
 
@@ -54,6 +56,10 @@
 ```
 
 ## Release Notes
+
+### 0.0.8
+
+- Add keybindings for Linux
 
 ### 0.0.7
 
@@ -83,3 +89,4 @@
 ### 0.0.1
 
 - Initial release of Translator.
+
