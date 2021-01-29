@@ -24,15 +24,15 @@
 
 #### (1) 코딩테스트 연습하기
 
-- MacOS: `Cmd + Shift + j`
-- Window: `Ctrl + Shift + r`
-- Linux: `Ctrl + Shift + r`
+- MacOS: `Cmd + Shift + u`
+- Window: `Ctrl + Shift + u`
+- Linux: `Ctrl + Shift + u`
 
 #### (2) TIL 작성하기
 
-- MacOS: `Cmd + Ctrl +l`
-- Window: `Ctrl + Window + i`
-- Linux: `Ctrl + Shift + i`
+- MacOS: `Cmd + Ctrl + w`
+- Window: `Ctrl + Window + w`
+- Linux: `Ctrl + Shift + w`
 
 ## Extension Settings
 
@@ -57,6 +57,10 @@
 ```
 
 ## Release Notes
+
+### 0.0.10
+
+- Update keybindings for all environments
 
 ### 0.0.9
 
@@ -94,4 +98,3 @@
 ### 0.0.1
 
 - Initial release of Translator.
-
