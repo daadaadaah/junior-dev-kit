@@ -16,6 +16,7 @@
 
 - MacOS: `Cmd + shift + p`
 - Window: `Ctrl + shift + p`
+- Linux: `Ctrl + shift + p`
 
 <img width="500" alt="명령어로 이용하기4" src="https://user-images.githubusercontent.com/60481383/105630887-e547ff80-5e8e-11eb-8ae9-e224b21656f9.png">
 
@@ -24,14 +25,14 @@
 #### (1) 코딩테스트 연습하기
 
 - MacOS: `Cmd + Shift + j`
-- Window: `Ctrl + Shift + j`
-- Linux: `Ctrl + Shift + j`
+- Window: `Ctrl + Shift + r`
+- Linux: `Ctrl + Shift + r`
 
 #### (2) TIL 작성하기
 
 - MacOS: `Cmd + Ctrl +l`
-- Window: `Ctrl + Window + l`
-- Linux: `Ctrl + Shift + j`
+- Window: `Ctrl + Window + i`
+- Linux: `Ctrl + Shift + i`
 
 ## Extension Settings
 
@@ -56,6 +57,10 @@
 ```
 
 ## Release Notes
+
+### 0.0.9
+
+- Update keybindings for Linux and window
 
 ### 0.0.8
 
